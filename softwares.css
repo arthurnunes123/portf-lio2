@@ -1,0 +1,26 @@
+h1{
+    text-align: left;
+    font-size: 60px;
+}
+body{
+    background-color: rgb(161, 72, 27);
+}
+p{
+    text-align: left;
+    font-size: 40px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+}
+button:hover{
+    background: #c9c8c8;
+}
+p{
+    font-size: 30px;
+}
+h2{
+    font-size:30px;
+}
